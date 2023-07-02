@@ -1,0 +1,5 @@
+User-agent: Googlebot
+Disallow: /images/*
+Disallow: /images/publications/*.png
+Disallow: /images/publications/*.jpg
+Disallow: /images/publications/*.jpeg
