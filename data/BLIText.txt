@@ -1,0 +1,8 @@
+@misc{jian2023bootstrapping,
+      title={Bootstrapping Vision-Language Learning with Decoupled Language Pre-training}, 
+      author={Yiren Jian and Chongyang Gao and Soroush Vosoughi},
+      year={2023},
+      eprint={2307.07063},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
