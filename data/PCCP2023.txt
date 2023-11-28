@@ -1,0 +1,10 @@
+@Article{D3CP04980A,
+author ="Zeng, Chengwei and Jian, Yiren and Zhuo, Chen and Li, Anbang and Zeng, Chen and Zhao, Yunjie",
+title  ="Evaluation of DNA-protein complex structures using the deep learning method",
+journal  ="Phys. Chem. Chem. Phys.",
+year  ="2023",
+pages  ="-",
+publisher  ="The Royal Society of Chemistry",
+doi  ="10.1039/D3CP04980A",
+url  ="http://dx.doi.org/10.1039/D3CP04980A",
+abstract  ="Biological processes such as transcription{,} repair{,} and regulation require the interactions between DNA and proteins. To unravel their functions{,} it is imperative to determine the high-resolution structures of DNA-protein complexes. However{,} experimental methods for this purpose are costly and technically demanding. Consequently{,} there is an urgent need for computational techniques to identify the structures of DNA-protein complexes. Despite technological advancements{,} accurately identifying DNA-protein complexes through computational methods still poses a challenge. Our team has developed a cutting-edge deep-learning approach called DDPScore that assesses DNA-protein complex structures. DDPScore utilizes a 4D convolutional neural network to overcome limited training data. This approach effectively captures local and global features while comprehensively considering the conformational changes arising from the flexibility during the DNA-protein docking process. DDPScore consistently outperformed the available methods in comprehensive DNA-protein complex docking evaluations{,} even for the flexible docking challenges. DDPScore has a wide range of applications in predicting and designing structures of DNA-protein complexes."}
